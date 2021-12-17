@@ -1,0 +1,23 @@
+.footer{
+    text-align: center;
+}
+.header{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+.navigation{
+    text-align: center;
+    color:blue;
+    font-family:fantasy;
+    font-style: italic;
+}
+.tableaubody{
+    text-align: center;
+    color: black
+}
+.copyright{
+    color:black;
+    font-family:cursive;
+    font-size: 10px;
+}

@@ -1,0 +1,16 @@
+a:hover {
+    color:cornflowerblue;
+  }
+.fst-italic {
+    font-style:normal !important;
+}
+header.masthead .page-heading,
+header.masthead .site-heading {
+  text-align: left;
+}
+#mainNav .navbar-nav > li.nav-item > a.nav-link {
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: .8em;
+    text-transform: uppercase;
+  }
